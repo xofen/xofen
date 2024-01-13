@@ -1,4 +1,4 @@
-<div class="body"><div class="divao"><img src="banner.png" class="teste"></div>
+<div class="body" align="center"><div class="divao"><img src="banner.png" class="teste"></div>
 
 <h1 align="center" class="hello">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=200&color=000000&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+Camarada!;I'm+Pedro+Paulo+Mirilli;encantado+de+conocerte" alt="Typing SVG" /></a>
@@ -11,29 +11,6 @@
 <br>
 <p align="center">
   Olá, sou Pedro Paulo Mirilli, FullStack e Artista Plástico do Brasil<br><br>Hi, I'm Pedro Paulo Mirilli, FullStack and Visual Artist from Brazil<br><br>Hola, soy Pedro Paulo Mirilli, FullStack y Artista Visual de Brasil<br></p>
-
-<style>
-  .body {
-    background-color: white;
-    padding: 30px;
-    color: black;
-    border: 5px solid;
-  }
-
-  .divao {
-    align: center;
-    text-align:center;
-  }
-
-  .teste {
-    border: 4px solid red;
-    align-self: center;
-  }
-
-  .hello {
-    color: yellow;
-  }
-</style>
 <br>
 <hr>
 <h2 align="center">Languages</h2>
