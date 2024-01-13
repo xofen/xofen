@@ -1,4 +1,4 @@
-<div class="body"><div class="divao"><img src="langs/banner.png" class="teste"></div>
+<div class="body"><div class="divao"><img src="banner.png" class="teste"></div>
 
 <h1 align="center" class="hello">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=200&color=000000&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+Camarada!;I'm+Pedro+Paulo+Mirilli;encantado+de+conocerte" alt="Typing SVG" /></a>
