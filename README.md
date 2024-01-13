@@ -6,7 +6,6 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/pedro-paulo-mirilli-742092b0/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/xofen" title="HackerRank Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg""> GitHub</a></code>
 </h5>
 <br>
 <p align="center">
