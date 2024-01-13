@@ -14,7 +14,6 @@
 <br>
 <hr>
 <h2 align="center">Languages</h2>
-<br>
 <p align="center">
   <img title="Html" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img title="Css" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
