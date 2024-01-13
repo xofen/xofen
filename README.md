@@ -1,12 +1,12 @@
 <div class="body" align="center"><div class="divao"><img src="banner.png" class="teste"></div>
 
 <h1 align="center" class="hello">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=200&color=000000&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+Camarada!;I'm+Pedro+Paulo+Mirilli;encantado+de+conocerte" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=200&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+Camarada!;I'm+Pedro+Paulo+Mirilli;encantado+de+conocerte" alt="Typing SVG" /></a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/pedro-paulo-mirilli-742092b0/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"> LinkedIn</a></code>
-  <code><a href="https://github.com/xofen" title="HackerRank Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> GitHub</a></code>
+  <code><a href="https://www.linkedin.com/in/pedro-paulo-mirilli-742092b0/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> LinkedIn</a></code>
+  <code><a href="https://github.com/xofen" title="HackerRank Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg""> GitHub</a></code>
 </h5>
 <br>
 <p align="center">
@@ -21,10 +21,9 @@
   <img title="Javascript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img title="Godot" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
   <img title="Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img title="Sql" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img title="Sql" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img title="Git" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </p>
-
 <hr>
 <h3 align="center">Other Stuff</h3>
 <p align="center">
