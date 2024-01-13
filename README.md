@@ -13,7 +13,7 @@
   Olá, sou Pedro Paulo Mirilli, FullStack e Artista Plástico do Brasil<br><br>Hi, I'm Pedro Paulo Mirilli, FullStack and Visual Artist from Brazil<br><br>Hola, soy Pedro Paulo Mirilli, FullStack y Artista Visual de Brasil<br></p>
 <br>
 <hr>
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages</h3><br>
 <p align="center">
   <img title="Html" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img title="Css" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
